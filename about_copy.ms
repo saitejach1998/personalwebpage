@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: About
+
 nav-menu: true
 ---
 
@@ -11,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About me</h1>
 		</header>
 
 <!-- Content -->
